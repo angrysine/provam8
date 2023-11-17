@@ -26,4 +26,4 @@ cd provam8
 python3 cli.py
 ```
 
-O usuário pode terminar a aplicação digitando "sair no terminal".
+O usuário pode terminar a aplicação digitando "sair" no terminal.
